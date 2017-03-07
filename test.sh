@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-python tweet.py RebuildFinished /dev/md0
+python3 tweet.py RebuildFinished /dev/md0
