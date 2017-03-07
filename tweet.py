@@ -4,8 +4,8 @@
 import tweepy
 import sys
 
-CONSUMER_KEY = '7J5zlGbq8ksp7TnPRGVcl0eGk'
-CONSUMER_SECRET = 'XojN3JUsoD3c7N0CBVxvNA7eKk5vJmMpgO7N2muLVZoy4dZkD0'
+CONSUMER_KEY = 'bHvXbznxDz0UhaKz7q1BHetOY'
+CONSUMER_SECRET = 'tC5RNt2d9lLW9PT9M2qVyi8kz28U2fRyVBI3oKfRarodUU0GuC'
 
 ACCESS_TOKEN = open('ACCESS_TOKEN', 'r').read()
 ACCESS_SECRET = open('ACCESS_SECRET', 'r').read()
